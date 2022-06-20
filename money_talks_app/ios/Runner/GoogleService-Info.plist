@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>912445689667-kgovnmuh10rnssns2hml5ep3qh6vjop0.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.912445689667-kgovnmuh10rnssns2hml5ep3qh6vjop0</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAtV73hvsV2tiWxv7KQ1Ig6K8iBRU7wnBQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>912445689667</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.amaticorp.moneyTalksApp</string>
+	<key>PROJECT_ID</key>
+	<string>money-talks-b420a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>money-talks-b420a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:912445689667:ios:42571739aca01f857469f6</string>
+</dict>
+</plist>
